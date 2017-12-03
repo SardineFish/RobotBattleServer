@@ -1,0 +1,3 @@
+[submodule "CytarMultiPlayer"]
+	path = CytarMultiPlayer
+	url = git@github.com:SardineFish/CytarMultiPlayer.git

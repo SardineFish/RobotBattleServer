@@ -1,0 +1,4 @@
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\obj\Debug\netstandard2.0\RobotBattleServer.csproj.CoreCompileInputs.cache
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\obj\Debug\netstandard2.0\RobotBattleServer.AssemblyInfoInputs.cache
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\obj\Debug\netstandard2.0\RobotBattleServer.AssemblyInfo.cs
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\obj\Debug\netstandard2.0\RobotBattleServer.csprojResolveAssemblyReference.cache
