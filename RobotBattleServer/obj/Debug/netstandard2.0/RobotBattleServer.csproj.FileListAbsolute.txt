@@ -2,3 +2,14 @@ F:\Project\dotNet\RobotBattleServer\RobotBattleServer\obj\Debug\netstandard2.0\R
 F:\Project\dotNet\RobotBattleServer\RobotBattleServer\obj\Debug\netstandard2.0\RobotBattleServer.AssemblyInfoInputs.cache
 F:\Project\dotNet\RobotBattleServer\RobotBattleServer\obj\Debug\netstandard2.0\RobotBattleServer.AssemblyInfo.cs
 F:\Project\dotNet\RobotBattleServer\RobotBattleServer\obj\Debug\netstandard2.0\RobotBattleServer.csprojResolveAssemblyReference.cache
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\bin\Debug\netstandard2.0\RobotBattleServer.deps.json
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\bin\Debug\netstandard2.0\RobotBattleServer.dll
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\bin\Debug\netstandard2.0\RobotBattleServer.pdb
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\bin\Debug\netstandard2.0\Cytar.dll
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\bin\Debug\netstandard2.0\CytarMultiPlayer.dll
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\bin\Debug\netstandard2.0\EasyRoute.dll
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\bin\Debug\netstandard2.0\CytarMultiPlayer.pdb
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\bin\Debug\netstandard2.0\Cytar.pdb
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\bin\Debug\netstandard2.0\EasyRoute.pdb
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\obj\Debug\netstandard2.0\RobotBattleServer.dll
+F:\Project\dotNet\RobotBattleServer\RobotBattleServer\obj\Debug\netstandard2.0\RobotBattleServer.pdb
